@@ -1,0 +1,7 @@
+Alpha Emitter = 1
+Beta Emitter = 2
+Gamma Emitter = 10
+Noise Source = -1
+Delta Source = 5
+Epsilon Target = 1
+Zeta Probe = 2
